@@ -4,34 +4,34 @@
         "brand": "Freedog", 
         "title": "Arenero Cubierto Toilet Breeze para Gatos",
         "price": 18.19,
-        "img": "/assets/img/products/1.png"
+        "img": "./assets/img/products/1.png"
     }, 
     {
         "id": 2,
         "brand": "Nayeco",
         "title": "Juguete Doggin'g Rosk",
         "price": 3.09,
-        "img": "/assets/img/products/2.png"
+        "img": "./assets/img/products/2.png"
     },
     {
         "id": 3,
         "brand": "Trixie",
         "title": "Poste Rascador Beiges",
         "price": 18.19,
-        "img": "/assets/img/products/3.png"
+        "img": "./assets/img/products/3.png"
     }, 
     {
         "id": 4,
         "brand": "Hunter",
         "title": "Collar Convenience",
         "price": 7.99,
-        "img": "/assets/img/products/4.png"
+        "img": "./assets/img/products/4.png"
     },
     {
         "id": 5,
         "brand": "Seresto",
         "title": "Collar Antiparasitario para Perros",
         "price": 26.95,
-        "img": "/assets/img/products/5.png"
+        "img": "./assets/img/products/5.png"
     }
 ]
