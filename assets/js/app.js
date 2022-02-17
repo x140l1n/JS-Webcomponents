@@ -8,7 +8,7 @@ const init = () => {
         </main>
     `;
 
-    fetch("/data/products.json").then(response => {
+    fetch("./data/products.json").then(response => {
         return response.json();
     })
         .then(data => {
