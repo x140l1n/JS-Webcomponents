@@ -1,7 +1,7 @@
 const init = () => {
     document.querySelector('#root').innerHTML =
         `
-        <x-navbar data-title="PETSHOP" data-logo="/assets/img/logo.png"></x-navbar>
+        <x-navbar data-title="PETSHOP" data-logo="./assets/img/logo.png"></x-navbar>
         <main class="container-fluid p-5">
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4" id="products">
             </div>
