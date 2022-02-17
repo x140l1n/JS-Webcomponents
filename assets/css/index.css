@@ -1,0 +1,35 @@
+html, body, #root {
+    height: 100%;
+}
+
+.alert-floating {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999; 
+}
+
+.list-cart {
+    max-height: 250px;
+    overflow-y: scroll;
+}
+
+.list-cart-image-parent {
+    max-width: 80px;
+}
+
+.popover{
+    max-width: 100%;
+}
+
+.list-cart-img-parent {
+    height: 50px;
+    width: 50px;
+}
+
+.list-cart-img-parent img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
